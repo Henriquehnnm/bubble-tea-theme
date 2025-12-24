@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Bubble Tea Theme Logo" width="150">
+  <img src="https://raw.githubusercontent.com/Henriquehnnm/bubble-tea-theme/refs/heads/main/icon.png" alt="Bubble Tea Theme Logo" width="150">
 </p>
 
 <h1 align="center">
