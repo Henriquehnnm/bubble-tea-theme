@@ -21,7 +21,7 @@
 
 ## 📸 Screenshots
 
-![Bubble Tea Theme Preview](https://github.com/user-attachments/assets/d1624c9c-4632-488f-b9be-9e0c5b73d8b6)
+![Bubble Tea Theme Preview](https://raw.githubusercontent.com/Henriquehnnm/bubble-tea-theme/refs/heads/main/preview.png)
 
 ## 📦 Installation
 
