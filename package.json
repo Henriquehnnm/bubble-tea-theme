@@ -1,0 +1,63 @@
+{
+  "name": "bubble-tea-theme",
+  "displayName": "Bubble Tea Theme",
+  "description": "A delightful bubble tea inspired theme for Visual Studio Code, drawing its color palette from the standard colors used in Charmbracelet projects like Bubble Tea and Lipgloss.",
+  "version": "1.0.0",
+  "publisher": "Henriquehnnm",
+  "author": {
+    "name": "Henriquehnnm"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/bubble-tea-theme.git"
+  },
+  "homepage": "https://github.com/Henriquehnnm/bubble-tea-theme#readme",
+  "bugs": {
+    "url": "https://github.com/Henriquehnnm/bubble-tea-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes",
+    "Icon Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "bubble tea",
+    "boba",
+    "cute",
+    "pastel",
+    "icon-theme",
+    "bubbletea",
+    "lipgloss",
+    "visual debug",
+    "scan time"
+  ],
+  "icon": "icon.png",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bubble Tea Theme",
+        "uiTheme": "vs-dark",
+        "path": "./src/bubble_tea.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "bubble-tea-icons",
+        "label": "Bubble Tea Icons",
+        "path": "./icons/theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
