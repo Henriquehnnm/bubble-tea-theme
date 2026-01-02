@@ -30,6 +30,8 @@ The Bubble Tea Theme now comes in two delicious flavors:
 
 ![Bubble Tea Theme Preview](https://raw.githubusercontent.com/Henriquehnnm/bubble-tea-theme/refs/heads/main/preview.png)
 
+![Bubble Tea Theme Classic Preview](https://raw.githubusercontent.com/Henriquehnnm/bubble-tea-theme/refs/heads/main/preview-classic.png)
+
 ## 📦 Installation
 
 1.  Open **Visual Studio Code**.
