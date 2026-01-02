@@ -2,7 +2,7 @@
   "name": "bubble-tea-theme",
   "displayName": "Bubble Tea Theme",
   "description": "A delightful bubble tea inspired theme for Visual Studio Code, drawing its color palette from the standard colors used in Charmbracelet projects like Bubble Tea and Lipgloss.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Henriquehnnm",
   "author": {
     "name": "Henriquehnnm"
@@ -46,6 +46,11 @@
         "label": "Bubble Tea Theme",
         "uiTheme": "vs-dark",
         "path": "./src/bubble_tea.json"
+      },
+      {
+        "label": "Bubble Tea Classic",
+        "uiTheme": "vs-dark",
+        "path": "./src/bubble_tea-classic.json"
       }
     ],
     "iconThemes": [
